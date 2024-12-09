@@ -2,13 +2,15 @@
   A user authentication system built with Django and Django REST Framework, using JSON Web Tokens (JWT) for secure login, registration, and profile management.</br>  
   Certain sections of this project have been intentionally altered or omitted to ensure security. Thank you for your understanding.
 
-## Features
-- **User Registration**: Secure user sign-up with validation.</br>
-- **Login**: Login functionality with JWT authentication.</br>
-- **Profile Management**: View and update user profile information.</br>
-- **JWT Authentication**: Token-based authentication for secure communication.</br>
-- **API-Driven Architecture**: Fully RESTful APIs for seamless integration with other systems.</br>
-- **Security Measures**: JWT-based authentication and email verification to ensure user data safety.</br>
+## Features  
+- **User Registration**: Secure user sign-up with validation.</br>  
+- **Login**: Login functionality with JWT authentication.</br>  
+- **Social Login**: Sign-up or log in through popular social networks for enhanced accessibility.</br>  
+- **Profile Management**: View and update user profile information.</br>  
+- **JWT Authentication**: Token-based authentication for secure communication.</br>  
+- **API-Driven Architecture**: Fully RESTful APIs for seamless integration with other systems.</br>  
+- **Security Measures**: JWT-based authentication, email verification, and social login to ensure user data safety and ease of access.</br>
+
 
 
 
@@ -18,6 +20,8 @@
 - psycopg
 - djangorestframework-simplejwt
 - drf-yasg
+- google-api-python-client
+- facebook-sdk
 
 
 # Security Notice
