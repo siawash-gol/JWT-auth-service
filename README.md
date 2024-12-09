@@ -1,5 +1,5 @@
 # JWT-auth-service
-  A user authentication system built with Django and Django REST Framework, using JSON Web Tokens (JWT) for secure login, registration, and profile management.</br>  
+  A user authentication system built with Django and Django REST Framework, using JSON Web Tokens (JWT) for secure login, registration, and profile management. 
   Certain sections of this project have been intentionally altered or omitted to ensure security. Thank you for your understanding.
 
 ## Features  
